@@ -1,2 +1,2 @@
 # assignment
-intershala assignment
+logic assignment
